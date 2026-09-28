@@ -2,8 +2,8 @@
 
 The project contains two deep-learning pipelines:
 
-1. **Mass Classification** – convolutional neural networks (CNNs) are used to classify pre-localized mammographic mass lesions as benign or malignant.
-2. **Malignant Lesion Localization** – a U-Net segmentation model is used to predict the location of malignant mass lesions within full mammograms.
+1. **Mass Classification**: convolutional neural networks (CNNs) are used to classify pre-localized mammographic mass lesions as benign or malignant.
+2. **Malignant Lesion Localization**: a U-Net segmentation model is used to predict the location of malignant mass lesions within full mammograms.
 
 ## Dataset
 
